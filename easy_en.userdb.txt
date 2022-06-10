@@ -1,0 +1,40 @@
+# Rime user dictionary
+#@/db_name	easy_en
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	43
+#@/user_id	Mac
+amazon 	amazon	c=1 d=0.932394 t=43
+app 	App	c=8 d=6.99637 t=43
+bartender 	bartender	c=1 d=0.985112 t=43
+book 	book	c=2 d=1.80516 t=43
+cleaner 	cleaner	c=1 d=1 t=43
+command 	command	c=1 d=0.927743 t=43
+delete 	delete	c=1 d=0.960789 t=43
+direct 	direct	c=1 d=0.99005 t=43
+display 	display	c=1 d=0.891366 t=43
+dracula 	dracula	c=1 d=0.882497 t=43
+dropbox 	Dropbox	c=1 d=0.965605 t=43
+error 	error	c=1 d=0.913931 t=43
+google 	Google	c=7 d=6.36107 t=43
+gray 	gray	c=1 d=0.980199 t=43
+group 	group	c=1 d=1 t=43
+hacker 	hacker	c=1 d=0.965605 t=43
+input 	input	c=1 d=0.946485 t=43
+ios 	iOS	c=2 d=1.86628 t=43
+mail 	mail	c=1 d=0.97531 t=43
+manage 	manage	c=1 d=1 t=42
+manager 	manager	c=1 d=0.951229 t=43
+menu 	menu	c=1 d=0.937067 t=43
+network 	network	c=1 d=0.909373 t=43
+registry 	registry	c=1 d=1 t=43
+show 	show	c=1 d=0.923116 t=43
+south 	south	c=1 d=0.955997 t=43
+speed 	speed	c=3 d=2.59552 t=43
+stage 	stage	c=1 d=0.946485 t=43
+substore 	substore	c=1 d=0.995012 t=43
+terminal 	terminal	c=2 d=1.93239 t=43
+twitter 	Twitter	c=1 d=0.946485 t=43
+update 	update	c=1 d=0.878095 t=43
+vpn 	VPN	c=1 d=0.97531 t=43
+youtube 	YouTube	c=1 d=0.918512 t=43
