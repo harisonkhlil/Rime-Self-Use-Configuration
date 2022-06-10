@@ -15,3 +15,7 @@ git clone https://github.com/harisonkhlil/Rime-Self-Use-Configuration.git
 ## Copy my files to your Rime configuration file folder
 
 ## Typer the shotkey: `control`+`option`+`~`
+
+** It beacome  more and more  accurate as you continie to use ti
+
+Have fun.
