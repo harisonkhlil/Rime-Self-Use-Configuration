@@ -16,6 +16,6 @@ git clone https://github.com/harisonkhlil/Rime-Self-Use-Configuration.git
 
 ## Typer the shotkey: `control`+`option`+`~`
 
-** It beacome  more and more  accurate as you continie to use ti
+**It beacome  more and more  accurate as you continie to use ti**
 
 Have fun.
